@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tetiana Batura</h1>
+<h1 align="center">Hi there 👋</h1>
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
