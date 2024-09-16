@@ -1,4 +1,3 @@
-![GitHub Banner](https://via.placeholder.com/1280x300?text=My+Dark+Profile) 
 <h1 align="left">Hi there 👋</h1>
 <p align="left"></p>
 
