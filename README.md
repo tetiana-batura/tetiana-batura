@@ -22,7 +22,7 @@
 <a href="https://eazybi.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eazybi/eazybi-ar21.svg" alt="eazybi" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/57kfy__confluence.svg" alt="confluence" width="40" height="40"/> </a> 
 <a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="miro" width="40" height="40"/> </a> 
-<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="60" height="40"/> </a> 
+<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="65" height="40"/> </a> 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/9aa092a5-3855-4c40-b99f-b8eb38d31acb" alt="tableau" width="40" height="40"/> </a> 
 <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="60" height="40"/> </a> 
 <a href="https://developers.google.com/analytics" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" alt="google analytics" width="60" height="40"/> </a> 
