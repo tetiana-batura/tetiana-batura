@@ -22,7 +22,7 @@
   
 <a href="https://www.atlassian.com" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a> 
 <a href="https://eazybi.com" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eazybi/eazybi-ar21.svg" alt="eazybi" width="40" height="50"/> </a> 
-<a href="https://www.atlassian.com/software/confluence" target="blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/57kfy__confluence.svg" alt="confluence" width="40" height="50"/> </a> 
+<a href="https://www.atlassian.com/software/confluence" target="blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/57kfy__confluence.svg" alt="confluence" width="40" height="40"/> </a> 
 <a href="https://miro.com/" target="blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="miro" width="40" height="50"/> </a>
 <a href="https://www.salesforce.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="60" height="50"/> </a> 
 <a href="https://www.tableau.com/" target="blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/wbGV8__tableau-software.svg" alt="tableau" width="40" height="50"/> </a>
