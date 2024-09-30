@@ -18,15 +18,16 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/atlassian_jira/index.html&backText=Return+to+VectorLogoZone" alt="jira" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="data analysis" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="eazybi" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="confluence" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="confluence" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="miro" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="salesforce" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="iProc" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="tableau" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="powerbi" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="google analytics" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="" alt="PMI-ACP" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a> 
+<a href="https://eazybi.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eazybi/eazybi-ar21.svg" alt="eazybi" width="40" height="40"/> </a> 
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/57kfy__confluence.svg" alt="confluence" width="40" height="40"/> </a> 
+<a href="https://miro.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/cp1qJ__miro.svg" alt="miro" width="40" height="40"/> </a> 
+<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="60" height="40"/> </a> 
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/9aa092a5-3855-4c40-b99f-b8eb38d31acb" alt="tableau" width="40" height="40"/> </a> 
+<a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="60" height="40"/> </a> 
+<a href="https://developers.google.com/analytics" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" alt="google analytics" width="60" height="40"/> </a> 
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="iProc" width="40" height="50"/> </a> 
+
+
+<h3 align="left">Certificates:</h3>
+<a href="https://www.pmi.org/certifications/agile-acp" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/nr9p3__pmi-agile-certified-practitioner-pmi-acp-r.svg" alt="PMI-ACP" width="40" height="40"/> </a> 
